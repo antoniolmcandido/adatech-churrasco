@@ -1,6 +1,6 @@
 # Churrascômetro - AdaTech
 
-<h1>Alunos</h1>
+<h1>Equipe</h1>
 <li>Antonio L M Candido</li>
 <li>João Lucas Mota</li>
 <li>Jose Weverton</li>
